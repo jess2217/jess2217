@@ -1,8 +1,8 @@
-A B.Tech undergraduate passionate about  Web development,App development ,Cyber Security and Embedded System , with hands-on experience and leadership roles. 
-Co-Lead of Marketing Team at Kiit Robotics Society, I’ve gained expertise in project management, communication, and negotiation.
-My role as Marketing Lead at KIIT Robotics Society enhanced my skills in team coordination and stakeholder engagement.
+Hi, I'm Aprajita kumari 👨‍💻
+B.Tech in Electronics and Computer Science | Full-Stack Developer | CyberSecurity Researcher | Embedded Systems Engineer
 
-        Eager to contribute to impactful projects, collaborate with professionals, and drive innovation in tech and Web Development
+Passionate about building secure, scalable software and hardware solutions. Strong expertise in web/app development, cybersecurity, and embedded systems, with hands-on experience in IoT, robotics, and penetration testing.
+Eager to contribute to impactful projects, collaborate with professionals, and drive innovation in tech and Web Development
 
 <!---
 jess2217/jess2217 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
